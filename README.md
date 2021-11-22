@@ -41,14 +41,16 @@
 <img width="1430" alt="Screen Shot 2021-11-22 at 11 34 22 AM" src="https://user-images.githubusercontent.com/57590298/142899356-797552d0-47ac-4c2e-b1a0-2ff3549b25a5.png">kubectl -n gblenv logs gbl-ingress-nginx-ingress-759d974b8b-vpflv
 
 
-<img width="788" alt="Screen Shot 2021-11-22 at 11 36 18 AM" src="https://user-images.githubusercontent.com/57590298/142899664-4db455f0-eb2d-453d-a8b5-42d745210711.png">kubectl -n gblenv logs gblwordpress-8546788cd6-z76jc
+<img width="788" alt="Screen Shot 2021-11-22 at 11 36 18 AM" src="https://user-images.githubusercontent.com/57590298/142899664-4db455f0-eb2d-453d-a8b5-42d745210711.png">
+kubectl -n gblenv logs gblwordpress-8546788cd6-z76jc
 
 
 <img width="1107" alt="Screen Shot 2021-11-22 at 11 38 19 AM" src="https://user-images.githubusercontent.com/57590298/142899991-fc643ce6-0410-4a77-b5eb-2cc3eb20dbfd.png">kubectl -n gblenv logs gblwordpress-mariadb-0
 
 4.4- The main page of the Wordpress in a browser (screenshot):
 
-<img width="452" alt="Screen Shot 2021-11-22 at 11 39 31 AM" src="https://user-images.githubusercontent.com/57590298/142900167-60ad6941-a70b-47e9-b459-45bccc260dc2.png"> Login page
+<img width="452" alt="Screen Shot 2021-11-22 at 11 39 31 AM" src="https://user-images.githubusercontent.com/57590298/142900167-60ad6941-a70b-47e9-b459-45bccc260dc2.png"> 
+Login page
 
 <img width="1430" alt="Screen Shot 2021-11-22 at 11 40 45 AM" src="https://user-images.githubusercontent.com/57590298/142900377-6b071ad5-59af-432d-9d22-41892f940b93.png"> Dashboard page
 
