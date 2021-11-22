@@ -1,0 +1,1 @@
+# Helm-Wordpress-MariaDB-Ingress-Controller-GBL-
