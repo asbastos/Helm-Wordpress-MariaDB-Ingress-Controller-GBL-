@@ -1,0 +1,8 @@
+wordpressUsername: gbl
+wordpressPassword: gbl
+wordpressEmail: artur_test@gbltest.com
+wordpressFirstName: Artur
+wordpressLastName: Bastos
+wordpressBlogName: gblchallenge.com
+service: 
+  type: LoadBalancer
