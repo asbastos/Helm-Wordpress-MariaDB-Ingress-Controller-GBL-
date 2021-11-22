@@ -4,6 +4,7 @@
 <img width="1148" alt="Screen Shot 2021-11-22 at 10 47 22 AM" src="https://user-images.githubusercontent.com/57590298/142891759-31956c37-020c-41a9-a381-cafde13d685f.png">
 
 2- I created a namespace called gblenv.
+
 <img width="664" alt="Screen Shot 2021-11-22 at 10 49 43 AM" src="https://user-images.githubusercontent.com/57590298/142892126-97b52ffc-b615-42dc-aee4-9511631f35e2.png">
 
 3- Regarding the assigniment requirements:
@@ -43,9 +44,9 @@ kubectl -n gblenv logs gblwordpress-mariadb-0
 
 4.4- The main page of the Wordpress in a browser (screenshot):
 
-<img width="452" alt="Screen Shot 2021-11-22 at 11 39 31 AM" src="https://user-images.githubusercontent.com/57590298/142900167-60ad6941-a70b-47e9-b459-45bccc260dc2.png">
+<img width="452" alt="Screen Shot 2021-11-22 at 11 39 31 AM" src="https://user-images.githubusercontent.com/57590298/142900167-60ad6941-a70b-47e9-b459-45bccc260dc2.png"> Login page
 
-<img width="1430" alt="Screen Shot 2021-11-22 at 11 40 45 AM" src="https://user-images.githubusercontent.com/57590298/142900377-6b071ad5-59af-432d-9d22-41892f940b93.png"> bdshgsfghsdhsd
+<img width="1430" alt="Screen Shot 2021-11-22 at 11 40 45 AM" src="https://user-images.githubusercontent.com/57590298/142900377-6b071ad5-59af-432d-9d22-41892f940b93.png"> Dashboard page
 
 
 
